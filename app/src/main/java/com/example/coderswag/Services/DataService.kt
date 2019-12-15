@@ -19,6 +19,14 @@ object DataService {
         Product("Devslopes Graphic Beanie", "$18", "hat1"),
         Product("Devslopes Hat Black", "$20", "hat2"),
         Product("Devslopes Hat White", "$18", "hat3"),
+        Product("Devslopes Hat Snapback", "$22", "hat4"),
+        Product("Devslopes Graphic Beanie", "$18", "hat1"),
+        Product("Devslopes Hat Black", "$20", "hat2"),
+        Product("Devslopes Hat White", "$18", "hat3"),
+        Product("Devslopes Hat Snapback", "$22", "hat4"),
+        Product("Devslopes Graphic Beanie", "$18", "hat1"),
+        Product("Devslopes Hat Black", "$20", "hat2"),
+        Product("Devslopes Hat White", "$18", "hat3"),
         Product("Devslopes Hat Snapback", "$22", "hat4")
     )
 
@@ -26,10 +34,30 @@ object DataService {
         Product("Devslopes Hoodie Gray", "$28", "hoodie1"),
         Product("Devslopes Hoodie Black", "$32", "hoodie2"),
         Product("Devslopes Hoodie Red", "$30", "hoodie3"),
+        Product("Devslopes Hoodie Yellow", "$34", "hoodie4"),
+        Product("Devslopes Hoodie Gray", "$28", "hoodie1"),
+        Product("Devslopes Hoodie Black", "$32", "hoodie2"),
+        Product("Devslopes Hoodie Red", "$30", "hoodie3"),
+        Product("Devslopes Hoodie Yellow", "$34", "hoodie4"),
+        Product("Devslopes Hoodie Gray", "$28", "hoodie1"),
+        Product("Devslopes Hoodie Black", "$32", "hoodie2"),
+        Product("Devslopes Hoodie Red", "$30", "hoodie3"),
         Product("Devslopes Hoodie Yellow", "$34", "hoodie4")
     )
 
     val shirts = listOf(
+        Product("Devslopes Shirt Gray", "$28", "shirt1"),
+        Product("Devslopes Shirt Black", "$32", "shirt2"),
+        Product("Devslopes Shirt Red", "$30", "shirt3"),
+        Product("Devslopes Shirt Yellow", "$34", "shirt4"),
+        Product("Devslopes Shirt Gray", "$28", "shirt1"),
+        Product("Devslopes Shirt Black", "$32", "shirt2"),
+        Product("Devslopes Shirt Red", "$30", "shirt3"),
+        Product("Devslopes Shirt Yellow", "$34", "shirt4"),
+        Product("Devslopes Shirt Gray", "$28", "shirt1"),
+        Product("Devslopes Shirt Black", "$32", "shirt2"),
+        Product("Devslopes Shirt Red", "$30", "shirt3"),
+        Product("Devslopes Shirt Yellow", "$34", "shirt4"),
         Product("Devslopes Shirt Gray", "$28", "shirt1"),
         Product("Devslopes Shirt Black", "$32", "shirt2"),
         Product("Devslopes Shirt Red", "$30", "shirt3"),
